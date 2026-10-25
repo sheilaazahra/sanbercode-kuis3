@@ -1,0 +1,15 @@
+{
+  "name": "kuis-3",
+  "version": "1.0.0",
+  "main": "orange-login.cy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^16.2.0"
+  }
+}
